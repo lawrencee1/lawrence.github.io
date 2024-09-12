@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Lawrence's Blog
 logo: Profile Pic.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Non-Ai Picture of me.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
