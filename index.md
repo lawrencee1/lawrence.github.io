@@ -10,13 +10,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I went to a Multimedia School that taught me alot. But i kept learning. Because technology now grows faster than ever. There's always a better way to do something. Better way to create videos, better content, better Portfolio? What makes some better Video Editors are, the fact they kept learning what's new. 
+Sure i've been doing video since 2019. But i always learn more today than yesterday. Anyway other than videos i also did... 
 
-## Header 2
+## Beyond Video Editing
 
-> This is a blockquote following a header.
+> I play badminton for hobby. But i also have 2 Villa's i am managing in Canggu Bali. I had fun supervising in the 14th World Esport in Bali.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
@@ -24,20 +25,20 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 # I've Created Videos for.....
 
-| for foreign Company         | for local company          | freelance      |
-|:----------------------------|:---------------------------|:---------------|
-| SatoshiGallery`2024`        | TheSocialVinna`2024-Today` | Wine Company   |
-| CustomMadeStories`2024`     | LavaLounge`2024`           | UC silver      |
-| PoppyAdvertising`2022-Today`| KitabTierList`2023-2024`   | Arshika Hotel  |
-| CPennies`2024-Today`        | GoDesign`2020`             | Kumon`2020`    |
+|  foreign Company    | local company      | freelance    |
+|:--------------------|:-------------------|:-------------|
+| SatoshiGallery      | TheSocialVinna     | Wine Company |
+| CustomMadeStories   | LavaLounge         | UC silver    |
+| PoppyAdvertising    | KitabTierList      | Arshika Hotel|
+| CPennies            | GoDesign           | Kumon        |
 
 ### They Hire me because
 
 ```js
-// Usually i am hired because
-the company needs Leads/Customer
+// When a company
+needs Leads/Customer
 = through videos {
-  return true;
+  return money;
 }
 ```
 
@@ -45,12 +46,12 @@ the company needs Leads/Customer
 # Or they want Hands Free
 i manage Everypart of the Social Media
 ::so.your.business.is |Passive Income|
-  }")
-end
+return time;
+  }") end
 ```
 
 
-### There's a horizontal rule below this.
+### Example of my work
 
 * * *
 
