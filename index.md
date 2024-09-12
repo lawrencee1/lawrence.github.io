@@ -24,12 +24,12 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 # I've Created Videos for.....
 
-| for foreign Company         | for local company          | freelance |
-|:----------------------------|:---------------------------|:----------|
-| SatoshiGallery`2024`        | TheSocialVinna`2024-Today` | Wine Company  |
-| CustomMadeStories`2024`     | LavaLounge`2024`           | UC silver  |
-| PoppyAdvertising`2022-Today`| KitabTierList`2023-2024`   | Arshika Hotel   |
-| CPennies`2024-Today`        | GoDesign`2020`             | Kumon`2020` |
+| for foreign Company         | for local company          | freelance      |
+|:----------------------------|:---------------------------|:---------------|
+| SatoshiGallery`2024`        | TheSocialVinna`2024-Today` | Wine Company   |
+| CustomMadeStories`2024`     | LavaLounge`2024`           | UC silver      |
+| PoppyAdvertising`2022-Today`| KitabTierList`2023-2024`   | Arshika Hotel  |
+| CPennies`2024-Today`        | GoDesign`2020`             | Kumon`2020`    |
 
 ### They Hire me because
 
